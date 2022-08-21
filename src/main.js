@@ -1,7 +1,7 @@
 import React from "react";
 import Horned from "./hornedBeast";
 import markhor from './images/markhor.jpg';
-import nubian from './images/nubianibex.jpg'
+import nubian from './images/nubian.jpg'
 
 
 class Main extends React.Component{
